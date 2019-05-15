@@ -1,4 +1,4 @@
-package org.fkjava.weixin.service;
+package org.fkjava.commons.service;
 
 public interface TokenManager {
 
